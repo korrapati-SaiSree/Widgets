@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Widget</string>
+    <string-array name="arr">
+        <item>Avaan</item>
+        <item>Aryan</item>
+        <item>Cheeku</item>
+        <item>Nushkie</item>
+        <item>Aashih</item>
+        <item>Smrithi</item>
+        <item>Kaarthik</item>
+        <item>Rahul</item>
+        <item>Mohith</item>
+        <item>Maahi</item>
+        <item>Sakshi</item>
+        <item>Priyanka</item>
+        <item>Prithvi</item>
+        <item>Rohith</item>
+    </string-array>
+</resources>
